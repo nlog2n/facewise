@@ -1,0 +1,6 @@
+Camera on Windows 10 VM in VirtualBox on Mac OS X
+
+
+make sure that the "Oracle VM VirtualBox Extension Pack" is installed(that adds support for the FaceTime HD camera), install the latest guest additions 
+
+then add the camera under Menu -> Devices > Webcams > FaceTime HD-Camera
