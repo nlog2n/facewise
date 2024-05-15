@@ -1,4 +1,5 @@
-# FaceSmart
+# FaceWise
+face and hand gesture recognition project written in C# with OpenCV.
 
 ## Version Changes
 (box.net)
